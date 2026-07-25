@@ -156,4 +156,3 @@ Includes full on-page SEO:
 Designed & developed by **Ravi Thakur** — Frontend Developer & UI/UX Designer, Mathura.
 
 > Replace phone numbers and email before deploying. Add real photos to complete the design.
-
